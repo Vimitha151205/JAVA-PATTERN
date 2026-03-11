@@ -1,5 +1,5 @@
 
-public class Geeks {
+public class Hollow_star{
     
     public static void printPattern(int n)
     {
